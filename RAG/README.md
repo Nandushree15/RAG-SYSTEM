@@ -109,5 +109,11 @@ rag/             Chunking, embeddings, retrieval, generation
 rag_cli.py       Terminal entry point
 test_rag.py      Retrieval smoke tests
 chroma_db/       Local persisted vector database
-```<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/441a2691-3d96-49a5-bc67-c034de51073d" />
+<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/592c5f3a-76f8-4010-ab0d-c4068a97426e" />
+<img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/1361f5df-1756-4505-a07a-dd80ae3490c6" />
+
+<img width="1920" height="1080" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/914ca0d6-9e30-4d87-aec1-41556d741501" />
+<img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/d74565e7-0789-4a27-a56f-dae90053d641" />
+
+
 
